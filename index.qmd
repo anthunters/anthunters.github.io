@@ -3,7 +3,7 @@ title: ""
 about:
   template: trestles
   image: img/logo_crop3.jpg
-  image-width: 25em
+  image-width: 22em
   image-shape: rounded
 format:
  html:
