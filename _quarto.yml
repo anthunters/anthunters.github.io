@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: https://anthunters.github.io/
+  title: "Ant Hunters"
+  favicon: img/logo_crop.jpg
+  open-graph: true
+  twitter-card: 
+    card-style: summary_large_image
+    creator: "@DanielSánchez-García"
+  navbar:
+    background: "#39939b"
+    foreground: dark
+    search: false
+    pinned: false
+    left:
+      - href: index.qmd
+        text: Home
+      - proyecto.qmd
+      - protocolo.qmd
+      - participation.qmd
+      - sponsor.qmd
+      - contacto.qmd
+  cookie-consent: true
+  reader-mode: false
+  
+  page-footer: 
+    left: |
+      {{< fa regular copyright >}} Daniel Sánchez-García, 2025<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+      
+    right: |
+     <img src="img/anthouse_crop.jpg" height="60" style="vertical-align: middle;">
+     <img src="img/ebd_csic.jpg" height="60" style="vertical-align: middle;">
+  
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: cosmo
+    fontsize: 1.2em
+    linestretch: 1.7
+    css: style.css
+    toc: true
+    page-layout: full
+    linkcolor: "#2A6292"
+    smooth-scroll: true
+
+editor: visual
+

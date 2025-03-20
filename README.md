@@ -1,2 +1,2 @@
 # anthunters.github.io
-Ant Hunters project website
+ Ant Hunters website
