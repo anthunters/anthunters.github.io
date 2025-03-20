@@ -1,0 +1,13 @@
+---
+title: ""
+about:
+  template: jolla
+  image: img/logo_crop3.jpg
+  image-width: 26em
+  image-shape: rounded
+format:
+ html:
+  css: home-page-style.css
+---
+
+## ¡Participa en este proyecto de ciencia ciudadana para estudiar las hormigas de tu entorno!
