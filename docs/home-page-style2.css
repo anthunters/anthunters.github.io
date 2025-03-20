@@ -1,0 +1,8 @@
+/* css styles */
+
+
+/* Target the body of the home page */
+h1 {
+  text-align: center; /* Or any other body styles */
+  line-height: 2em; /* Adjust this value for more or less space */
+}
