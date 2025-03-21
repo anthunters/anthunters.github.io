@@ -25,6 +25,7 @@ website:
       - contacto.qmd
   cookie-consent: true
   reader-mode: false
+  google-analytics: "G-7ZFML0LXXK"
   
   page-footer: 
     left: |
@@ -52,4 +53,3 @@ format:
     smooth-scroll: true
 
 editor: visual
-
