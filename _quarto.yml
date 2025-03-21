@@ -35,7 +35,8 @@ website:
     right: |
      <img src="img/anthouse_crop.jpg" height="60" style="vertical-align: middle;">
      <img src="img/aim.jpg" height="60" style="vertical-align: middle;">
-     <img src="img/ebd_csic.jpg" height="60" style="vertical-align: middle;">
+     <img src="img/ebd.jpg" height="60" style="vertical-align: middle;">
+     <img src="img/csic.jpg" height="60" style="vertical-align: middle;">
   
 format:
   html:
