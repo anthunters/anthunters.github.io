@@ -4,7 +4,7 @@ project:
 
 website:
   site-url: https://anthunters.github.io/
-  title: "Ant Hunters"
+  title: ""
   favicon: img/logo_crop.jpg
   open-graph: true
   twitter-card: 
@@ -17,7 +17,7 @@ website:
     pinned: false
     left:
       - href: index.qmd
-        text: Home
+        text: Ant Hunters
       - proyecto.qmd
       - protocolo.qmd
       - participation.qmd
@@ -41,9 +41,7 @@ website:
   
 format:
   html:
-    theme: 
-      light: cosmo
-      dark: cosmo
+    theme: cosmo
     fontsize: 1.2em
     linestretch: 1.7
     css: style.css
