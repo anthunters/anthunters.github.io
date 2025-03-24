@@ -8,7 +8,7 @@ comments: false
 
 {{< fa location-dot >}}   Estación Biológica de Doñana (EBD - CSIC)
 
-{{< fa people-group >}}   Ant ecology group
+{{< fa people-group >}}   [Ant ecology group](www.ant-ecology.eu)
 
 ```{r, echo=FALSE, warning=FALSE}
 library(leaflet)

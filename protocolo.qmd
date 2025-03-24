@@ -38,7 +38,7 @@ Los muestreos deben realizarse en días soleados, con buena temperatura, entre m
 
     **Antes de salir a tu zona de muestreo**, deberás hervir agua del grifo por 10 minutos y transportarla en los 3 botes proporcionados para preparar la disolución de agua con azucar (uno por cada periodo de muestreo: mañana, tarde y noche). Antes de cada periodo de muestreo, **ya en el campo justo antes de iniciar el muestreo**, añadirás el azúcar al agua (te enviamos la cantidad de azucar necesaria que deberas de disolver en cada uno de los botes agua), agitarás ligeramente durante un minuto hasta su completa disolución, y añadirás 2 ml de agua con azúcar en cada uno de los 10 cebos correspondientes.
 
-3.  **Colocación de cebos:** En la zona seleccionada, colocarás **10 cebos** en línea recta, separados **10 metros** entre sí (o alternativamente, si las dimensiones de la zona a muestrear no lo permiten, puedes disponer los cebos en dos transectos de 5 cebos separados un mínimo de 10 metros el uno del otro). **NOTA:** 10 metros equivalen aproximadamente a unos 13 pasos de una persona de 1,85 metros de altura o 15 pasos de una persona de 1,65 metros.
+3.  **Colocación de cebos:** En la zona seleccionada, colocarás **10 cebos** en línea recta, separados **10 metros** entre sí. Alternativamente, si las dimensiones de la zona a muestrear no lo permiten, puedes disponer los cebos en dos transectos de 5 cebos separados un mínimo de 10 metros el uno del otro, o en tres transectos de 3, 3, y 4 cebos, tambien separados un minimo de 10 metros entre sí. **NOTA:** 10 metros equivalen aproximadamente a unos 13 pasos de una persona de 1,85 metros de altura o 15 pasos de una persona de 1,65 metros.
 
 ![](img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
