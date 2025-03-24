@@ -4,6 +4,8 @@ title-block-banner: false
 comments: false
 ---
 
+En resumen, el muestreo consiste en atraer hormigas con agua azucarada y capturarlas en distintos momentos del día en un parque urbano y una zona natural. Luego, las muestras se conservan en etanol y se envían a los investigadores. Aquí te lo explicamos en detalle:
+
 ### **¿Qué necesitas?**
 
 Te enviaremos un **kit con todo el material necesario para participar**, incluyendo un manual de instrucciones que podrás llevarte a los muestreos, placas de Petri y algodón para los cebos, botes para el agua, azúcar, pipeta, pinzas, microtubos con etanol puro para preservar las muestras, una plantilla para la toma de datos y un sobre pre-franqueado para enviarnos las muestras recolectadas.
