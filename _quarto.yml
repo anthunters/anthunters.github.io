@@ -5,7 +5,7 @@ project:
 website:
   site-url: https://anthunters.github.io/
   title: ""
-  favicon: img/logo_crop.jpg
+  favicon: img/logo_bis_crop.jpg
   open-graph: true
   twitter-card: 
     card-style: summary_large_image

@@ -24,7 +24,7 @@ Los muestreos deben realizarse en días soleados, con buena temperatura, entre m
 
 1.  **El muestreo se repetirá a lo largo de 3 periodos de un mismo día**:
 
-    1.  Por la mañana, comienzo 9:00h – recogida muestras 10:00h
+    1.  Por la mañana, comienzo 10:00h – recogida muestras 11:00h
 
     2.  Al mediodía, comienzo 13:00h – recogida muestras 14:00h
 
