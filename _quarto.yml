@@ -21,6 +21,7 @@ website:
       - proyecto.qmd
       - protocolo.qmd
       - participation.qmd
+      - team.qmd
       - sponsor.qmd
       - contacto.qmd
   cookie-consent: true

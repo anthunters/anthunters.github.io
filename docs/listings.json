@@ -2,5 +2,13 @@
   {
     "listing": "/noticias.html",
     "items": []
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/research/daniel.html",
+      "/team/research/elena.html",
+      "/team/research/xim.html"
+    ]
   }
 ]

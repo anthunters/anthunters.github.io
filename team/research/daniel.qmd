@@ -1,0 +1,30 @@
+---
+title: "Daniel Sánchez García"
+subtitle: "Líder del proyecto"
+sortby: "1"
+image: daniel.jpg
+# started: "date"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: "mailto:danielsangarci@gmail.com"
+    - icon: link
+      text: website
+      href: https://danielsangarci.github.io
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.es/citations?user=5EQSDqwAAAAJ&hl=es
+    - icon: github
+      text: github
+      href: https://www.github.com/danielsangarci
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/danielsangarci
+---
+
+::: {#person-profile}
+:::

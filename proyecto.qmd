@@ -4,7 +4,7 @@ title-block-banner: false
 comments: false
 ---
 
-Se trata de un proyecto de ciencia ciudadana llevado a cabo por investigadores del Grupo de Ecologia de Hormigas de la Estación Biológica de Doñana (EBD - CSIC), que te invitan a convertirte en un investigador y explorar la biodiversidad de estos increíbles insectos en tu entorno. ¿Cómo? ¡Es sencillo y divertido! Colocarás cebos de agua con azúcar en un parque urbano y una zona natural de tu elección, y podrás observar las especies que conviven contigo y cómo varía su actividad a lo largo del día.
+Se trata de un proyecto de ciencia ciudadana llevado a cabo por [investigadores](#research) del Grupo de ecología de hormigas de la Estación Biológica de Doñana (EBD - CSIC), que te invitan a convertirte en un investigador y explorar la biodiversidad de estos increíbles insectos en tu entorno. ¿Cómo? ¡Es sencillo y divertido! Colocarás cebos de agua con azúcar en un parque urbano y una zona natural de tu elección, y podrás observar las especies que conviven contigo y cómo varía su actividad a lo largo del día.
 
 Este proyecto no solo te permitirá aprender sobre la biología y el comportamiento de las hormigas, sino que también te convertirá en un participante activo en la generación de conocimiento científico. Tu participación ayudará a los científicos a recoger muestras y comprender mejor aspectos clave sobre la distribución, interacciones, microbiología y genética de las hormigas. No necesitas ser un experto, solo tener curiosidad y ganas de contribuir a la ciencia. Te proporcionaremos un kit AntHunter completo con todo lo necesario, incluyendo instrucciones detalladas y materiales para la recolección de muestras.
 

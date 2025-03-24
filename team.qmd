@@ -1,0 +1,33 @@
+---
+title: "¿Quiénes somos?"
+listing:
+  - id : research
+    contents: "team/research/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+    
+  - id : participants
+    contents: "team/participants/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+---
+
+## Equipo
+
+::: {#research}
+:::
+
+## Participantes
+
+::: {#participants}
+:::
