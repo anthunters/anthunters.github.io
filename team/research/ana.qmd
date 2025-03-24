@@ -1,0 +1,21 @@
+---
+title: "Ana Carvajal"
+subtitle: "Colaboradora"
+sortby: "4"
+image: ana.jpg
+# started: "date"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: "mailto:anacarvajal@ebd.csic.es"
+    - icon: link
+      text: website
+      href: https://ant-ecology.eu
+---
+
+::: {#person-profile}
+:::
