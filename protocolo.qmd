@@ -42,7 +42,7 @@ Los muestreos deben realizarse en días soleados, con buena temperatura, entre m
 
     </video>
 
-    <figcaption>Cebo de agua y azúcar explotado por *Aphaenogaster iberica* y *Catahlyphis hispanica*. Vídeo: Juan Pascual</figcaption>
+    <figcaption>Cebo de agua y azúcar explotado por *Aphaenogaster iberica* y *Cataglyphis hispanica*. Vídeo: Juan Pascual</figcaption>
 
     </figure>
 
