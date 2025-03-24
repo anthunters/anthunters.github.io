@@ -18,9 +18,6 @@ about:
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.com/citations?hl=es&user=b8lKybgAAAAJ
-    - icon: twitter
-      text: twitter
-      href: https://www.twitter.com/danielsangarci
 ---
 
 ::: {#person-profile}
