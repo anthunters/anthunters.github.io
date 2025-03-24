@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - img/
 
 website:
   site-url: https://anthunters.github.io/
