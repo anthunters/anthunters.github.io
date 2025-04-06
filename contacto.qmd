@@ -10,7 +10,7 @@ comments: false
 
 {{< fa people-group >}}   [Ant ecology group](www.ant-ecology.eu)
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, fig.height=1, fig.width=2}
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles

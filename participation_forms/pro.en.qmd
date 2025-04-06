@@ -1,0 +1,18 @@
+---
+title: "How to Participate in Ant Hunters Pro?"
+subtitle: "For Citizens"
+sortby: "1"
+image: pro4.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+Before anything else, we recommend you read the [Sampling Protocol](../protocols/pro.qmd). If you have already done so and want to participate in the project...
+
+Join by providing your details and the areas you wish to sample in this [form](https://forms.gle/P3N1jEVUXahPpKys5)
+
+Or if you have any questions, you can contact us through {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+
+Thank you for your interest in helping science and discovering more about the ants in your surroundings! After completing your samplings, we will send you a certificate of participation and a small report on the ant communities obtained from your samplings.

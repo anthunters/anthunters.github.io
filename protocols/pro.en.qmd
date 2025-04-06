@@ -1,0 +1,72 @@
+---
+title: "Ant Hunters Pro"
+subtitle: "Pro protocol for citizens"
+sortby: "1"
+image: pro4.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+In summary, sampling consists of attracting ants with sugar water and capturing them at different times of the day in an urban park and a natural area. Then, the samples are preserved in ethanol and sent to the researchers. Here’s a detailed explanation:
+
+### **What do you need?**
+
+"We will send you a **kit with all the necessary materials to participate**, including an instruction manual that you can take to the sampling sites, Petri dishes and cotton for the baits, bottles for the water, sugar, pipette, tweezers, microtubes with pure ethanol to preserve the samples, a data collection template, and a pre-paid envelope to send us the collected samples.
+
+### **Where to conduct the sampling?**
+
+As a participant, you will place sugar water baits in two areas of your choice:\
+1. A **urban park** (choose a location with little foot traffic from dogs or people that could interfere with the sampling)\
+2. A **natural area** (forest, meadow, or any other natural space not affected by human intervention. Avoid cultivated fields and semi-natural environments).
+
+Consult us if you have any questions when choosing your sampling areas, we will be happy to help you.
+
+**Take a photo of your sampling areas**, this will help us characterize them. And don't forget to **take a selfie** during the sampling so you can appear on our website!
+
+### **When to conduct the sampling?**
+
+The sampling should be done on sunny days with good temperature, between May and June 2025. This ensures that the ants are active and that the results are representative. If you are participating individually, you will need two days to complete the study, one for the urban sampling and one for the natural area sampling, but you can also **collaborate with another person** and each sample one area, or do the sampling together.
+
+### **How is the sampling conducted?**
+
+1.  **The sampling will be repeated over 3 periods of the same day**:
+
+    1.  In the morning, start at 10:00 AM – sample collection at 11:00 AM
+
+    2.  At noon, start at 1:00 PM – sample collection at 2:00 PM
+
+    3.  At sunset, start at 8:00 PM – sample collection at 9:00 PM
+
+2.  **Bait preparation: What is a bait in this project?**
+
+In this project, a bait consists of a Petri dish in which a cotton ball soaked in sugar water is placed. It is designed to attract ants, as the sweetness of the sugar encourages them to approach and feed, allowing you to observe and collect samples of the different species present in the area.
+
+```         
+<figure>
+
+<video width="400" height="225" controls>
+
+<source src="img/video_cebo.mp4" type="video/mp4">
+
+</video>
+
+<figcaption>Sugar water bait exploited by *Aphaenogaster iberica* and *Cataglyphis hispanica*. Video: Juan Pascual</figcaption>
+
+</figure>
+
+**Before heading to your sampling area**, you should boil tap water for 10 minutes and transport it in the 3 provided bottles to prepare the sugar water solution (one for each sampling period: morning, afternoon, and evening). Before each sampling period, **just in the field right before starting the sampling**, you will add sugar to the water (we will send you the required amount of sugar to dissolve in each of the water bottles), gently shake for one minute until completely dissolved, and add 2 ml of sugar water to each of the 10 corresponding baits.
+```
+
+3.  **Placing the baits:** In the selected area, you will place **10 baits** in a straight line, separated by **10 meters**. Alternatively, if the dimensions of the sampling area do not allow this, you can arrange the baits in two transects of 5 baits, each separated by at least 10 meters, or in three transects of 3, 3, and 4 baits, also separated by at least 10 meters. **NOTE:** 10 meters is approximately equivalent to 13 steps of a person who is 1.85 meters tall, or 15 steps of a person who is 1.65 meters tall.
+
+![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
+
+4.  **Bait review:** One hour after placing the baits during each sampling period, you will check the baits and collect with the tweezers we sent you between **1 and 6 workers of each species present per bait** (ideally 6 workers of each species if available), preserving all the ants from a single bait in one microtube with ethanol.
+
+    **If you don't know how to identify** the different ant species, don't worry. Using the tweezers we sent, collect up to a maximum of 6 workers from each type of ant you observe with different morphology (size, color, shape). **If you have experience in species identification**, in addition to sending us the samples you collected, you can also include the information of your identifications in a simple template we will send you and return it to us via email. Also, send us photos of your sampling areas and your selfie through the contact email [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+
+5.  **Storage and shipping:** Once collected, the samples should be stored in the **refrigerator** until they are shipped in the pre-paid envelope that you will receive with the sampling materials.
+
+Now you are an expert in studying ant activity! **The same procedure should be repeated in the second selected sampling area.**

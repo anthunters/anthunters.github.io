@@ -21,8 +21,8 @@ website:
       - href: index.qmd
         text: Ant Hunters
       - proyecto.qmd
-      - protocolo.qmd
-      - participation.qmd
+      - protocolo2.qmd
+      - participation2.qmd
       - team.qmd
       - sponsor.qmd
       - contacto.qmd
@@ -52,5 +52,19 @@ format:
     page-layout: full
     linkcolor: "#2A6292"
     smooth-scroll: true
+    
+    
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "English"
+  - name: es
+    text: "Español"
+  mainlanguage: 'es'
+  languages: ['en']
+title-en:
+description-en: 
+author-en: Daniel Sánchez García
+lang: es
 
 editor: visual
