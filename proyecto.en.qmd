@@ -4,8 +4,10 @@ title-block-banner: false
 comments: false
 ---
 
-This is a citizen science project coordinated by [researchers](team.qmd) from the Ant Ecology Group at the Doñana Biological Station (EBD - CSIC), inviting you to become a researcher and explore the biodiversity of these incredible insects in your environment. How? It's simple and fun! You will place sugar water baits and observe the species that coexist with you and how they come to live together.
+This is a citizen science project coordinated by [researchers](team.qmd) from the Ant Ecology Group at the Doñana Biological Station (EBD - CSIC), inviting you to become a researcher and explore the biodiversity of these incredible insects in your environment.
 
-This project will not only allow you to learn about the biology and behavior of ants, but it will also make you an active participant in generating scientific knowledge. Your participation will help scientists collect samples and better understand key aspects of ant distribution, interactions, microbiology, and genetics. You don't need to be an expert, just curious and willing to contribute to science. We will provide you with a complete AntHunter kit with everything you need, including detailed instructions and materials for sample collection.
+We **teach you** one of the sampling methods researchers use to study ants. We offer you two ways to participate: one as a citizen scientist and another as a teacher. You will be able to learn and draw your own conclusions, and **if you are a teacher**, you can use it as an activity with your students. **How?** It's simple and fun! You will place sugar water baits and observe the species that coexist with you and how they come to live together. We will provide you with a complete **AntHunter kit** with everything you need, including detailed instructions and materials for sample collection. Additionally, we suggest complementary activities that you can do after the study using the kit materials.
+
+This project will not only allow you to learn about the biology and behavior of ants, but it will also make you an active participant in generating scientific knowledge. Your participation will help scientists collect samples and better understand key aspects of ant distribution, interactions, microbiology, and genetics. You don't need to be an expert, just curious and willing to contribute to science.
 
 Become an Ant Hunter and be part of this exciting project!
