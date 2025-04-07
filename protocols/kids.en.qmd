@@ -9,7 +9,7 @@ title-block-banner: false
 comments: false
 ---
 
-In summary, the sampling consists of attracting ants with sugar water and capturing them at different times of the day in an urban park and a natural area. The samples are then preserved in ethanol and sent to the researchers. Here is a detailed explanation:
+In summary, the sampling consists of attracting ants with sugar water and capturing them in the schoolyard. The samples are then preserved in ethanol and sent to the researchers. Here is a detailed explanation:
 
 ### **What do you need?**
 
@@ -33,11 +33,11 @@ The sampling should be done on a sunny day with good temperature, between May an
 
 **What is a bait in this project?**
 
-In this project, a bait consists of a tube filled with sugar water. It is designed to attract ants, the sweetness of the sugar encourages them to approach and feed, allowing for observation and collection of samples from the different species
+In this project, a bait consists of a tube filled with sugar water. It is designed to attract ants, the sweetness of the sugar encourages them to approach and feed, allowing for observation and collection of samples from the different species. **NOTE:** Do not open the bait tube too early, as it contains a sterile sugar water solution and could become contaminated.
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
-2.  **Revising the baits**: One hour after placing the baits in each sampling period, you will check the baits and collect with the tweezers we provided **between 1 and 6 workers of each species present per bait** (ideally 6 workers of each species if available), storing all the ants from the same bait in a single microtube with ethanol.
+2.  **Collecting the baits:** One hour after placing them, you will collect the baits and use the tweezers we sent you to capture between 1 and 6 worker ants of each type present per bait (ideally 6 workers of each species if available). All ants from the same bait should be preserved in a single microtube with ethanol. **NOTE:** You can look at the size, color, and shape to distinguish between different ant species.
 
 <!-- -->
 

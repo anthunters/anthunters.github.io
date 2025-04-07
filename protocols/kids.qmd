@@ -9,7 +9,7 @@ title-block-banner: false
 comments: false
 ---
 
-En resumen, el muestreo consiste en atraer hormigas con agua azucarada y capturarlas en distintos momentos del día en un parque urbano y una zona natural. Luego, las muestras se conservan en etanol y se envían a los investigadores. Aquí te lo explicamos en detalle:
+En resumen, el muestreo consiste en atraer hormigas con agua azucarada y capturarlas en el patio del colegio. Luego, las muestras se conservan en etanol y se envían a los investigadores. Aquí te lo explicamos en detalle:
 
 ### **¿Qué necesitas?**
 
@@ -33,13 +33,13 @@ El muestreo debe realizarse un día soleado, con buena temperatura, entre mayo y
 
 **¿Qué es un cebo en este proyecto?**
 
-En este proyecto, un cebo consiste en un tubo relleno de agua con azucar. Está diseñado para atraer a las hormigas, la dulzura del azúcar las incita a acercarse y alimentarse, permitiendo observar y recoger muestras de las diferentes especies presentes en la zona. **NOTA:** No habras el cebo antes de tiempo, ya que contiene una solucion de agua con azucar esteril y podría contaminarse.
+En este proyecto, un cebo consiste en un tubo relleno de agua con azucar. Está diseñado para atraer a las hormigas, la dulzura del azúcar las incita a acercarse y alimentarse, permitiendo observar y recoger muestras de las diferentes especies presentes en la zona. **NOTA:** No abras el tubo del cebo antes de tiempo, ya que contiene una solucion de agua con azucar esteril y podría contaminarse.
 
 1.  **Colocación de cebos:** En la zona seleccionada, colocarás **10 cebos** en línea recta, separados **10 metros** entre sí. Alternativamente, si las dimensiones de la zona a muestrear no lo permiten, puedes disponer los cebos en dos transectos de 5 cebos separados un mínimo de 10 metros el uno del otro, o en tres transectos de 3, 3, y 4 cebos, tambien separados un minimo de 10 metros entre sí. **NOTA:** 10 metros equivalen aproximadamente a unos 13 pasos de una persona de 1,85 metros de altura o 15 pasos de una persona de 1,65 metros.
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
-2.  **Revisión de los cebos**: Una hora después de colocarlos en cada periodo de muestreo, revisarás los cebos y recogerás con las pinzas que te enviamos entre **1 y 6 obreras de cada especie presente por cebo** (idealmente 6 obreras de cada especie si las hay), conservando todas las hormigas de un mismo cebo en un único microtubo con etanol.
+2.  **Recogida de los cebos**: Una hora después de colocarlos, recogerás los cebos y capturaras con las pinzas que te enviamos entre **1 y 6 obreras de cada tipo de hormiga presente por cebo** (idealmente 6 obreras de cada tipo si las hay), conservando todas las hormigas de un mismo cebo en un único microtubo con etanol. **NOTA:** Puedes fijarte en el tamaño, color y forma para distinguir las distintas especies de hormigas.
 
 <!-- -->
 
