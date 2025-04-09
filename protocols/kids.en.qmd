@@ -37,7 +37,8 @@ In this project, a bait consists of a tube filled with sugar water. It is design
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
-2.  **Collecting the baits:** One hour after placing them, you will collect the baits and use the tweezers we sent you to capture between 1 and 6 worker ants of each type present per bait (ideally 6 workers of each species if available). All ants from the same bait should be preserved in a single microtube with ethanol. **NOTE:** You can look at the size, color, and shape to distinguish between different ant species.
+2.  **Collecting the baits:** One hour after placing them, you will collect the baits and use the tweezers we sent you to capture between 1 and 6 worker ants of each type present per bait (ideally 6 workers of each species if available). All ants from the same bait should be preserved in a single microtube with ethanol. Use the forceps gently to avoid damaging the ants; if the ants are damaged, we will not be able to use them in the study. **NOTE 1:** You can look at the size, color, and shape to distinguish between different ant species. **NOTE 2:** To make it easier to collect ants, you can cool the tubes in the freezer or in a portable cooler with ice for 20 minutes. **NOTE 3:** In the case of small ants, wetting the forceps with alcohol causes them to tend to adhere to the surface and makes them easier to introduce into microtubes. For larger ants, you can try to grasp them by a leg to avoid damaging them.
+
 
 <!-- -->
 
