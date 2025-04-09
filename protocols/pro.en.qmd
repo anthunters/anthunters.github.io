@@ -57,7 +57,7 @@ The sampling should be done on sunny days with good temperature, between May and
 
     **Before heading to your sampling area**, you should boil tap water for 10 minutes and transport it in the 3 provided bottles to prepare the sugar water solution (one for each sampling period: morning, afternoon, and evening). Before each sampling period, **just in the field right before starting the sampling**, you will add sugar to the water (we will send you the required amount of sugar to dissolve in each of the water bottles), gently shake for one minute until completely dissolved, and add 2 ml of sugar water to each of the 10 corresponding baits.
 
-3.  **Placing the baits:** In the selected area, you will place **10 baits** in a straight line, separated by **10 meters**. Alternatively, if the dimensions of the sampling area do not allow this, you can arrange the baits in two transects of 5 baits, each separated by at least 10 meters, or in three transects of 3, 3, and 4 baits, also separated by at least 10 meters. **NOTE:** 10 meters is approximately equivalent to 13 steps of a person who is 1.85 meters tall, or 15 steps of a person who is 1.65 meters tall.
+3.  **Placing the baits:** In the selected area, you will place **10 baits** in a straight line, separated by **10 meters**. Alternatively, if the dimensions of the sampling area do not allow this, you can arrange the baits in two transects of 5 baits, each separated by at least 10 meters, or in three transects of 3, 3, and 4 baits, also separated by at least 10 meters. When you repeat the sampling at midday and at dusk, try to place the baits in the same location as in the morning. **NOTE:** 10 meters is approximately equivalent to 13 steps of a person who is 1.85 meters tall, or 15 steps of a person who is 1.65 meters tall.
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
@@ -65,6 +65,6 @@ The sampling should be done on sunny days with good temperature, between May and
 
     **If you don't know how to identify** the different ant species, don't worry. Using the tweezers we sent, collect up to a maximum of 6 workers from each type of ant you observe with different morphology (size, color, shape). **If you have experience in species identification**, in addition to sending us the samples you collected, you can also include the information of your identifications in a simple template we will send you and return it to us via email. Also, send us photos of your sampling areas and your selfie through the contact email [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
 
-5.  **Storage and shipping:** Once collected, the samples should be stored in the **refrigerator** until they are shipped in the pre-paid envelope that you will receive with the sampling materials.
+5.  **Storage and shipping:** Once collected the ants, the microtubes containing the samples should be stored in the **refrigerator** until they are shipped. Use the pre-paid envelope included with the sampling materials and send them within one week of collection.
 
 Now you are an expert in studying ant activity! **The same procedure should be repeated in the second selected sampling area.**

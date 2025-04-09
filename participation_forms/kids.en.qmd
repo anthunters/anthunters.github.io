@@ -1,6 +1,6 @@
 ---
 title: "How to Participate in Ant Hunters Kids?"
-subtitle: "For Schools"
+subtitle: "For Schools/High schools"
 sortby: "2"
 image: kids7.jpg
 # started: "date"

@@ -1,6 +1,6 @@
 ---
 title: "Ant Hunters Kids"
-subtitle: "Protocolo Kids para colegios"
+subtitle: "Protocolo Kids para Colegios/Institutos"
 sortby: "2"
 image: kids7.jpg
 # started: "date"
@@ -13,12 +13,12 @@ En resumen, el muestreo consiste en atraer hormigas con agua azucarada y captura
 
 ### **¿Qué necesitas?**
 
-Te enviaremos un **kit con todo el material necesario para participar**, incluyendo un mini manual de instrucciones, tubos con agua y azucar para los cebos, pinzas, microtubos con etanol puro para preservar las muestras, y un sobre pre-franqueado para enviarnos las muestras recolectadas.
+Te enviaremos un **kit con todo el material necesario para participar**, incluyendo un mini manual de instrucciones, tubos con agua y azucar para los cebos, pinzas, microtubos con etanol puro para preservar las muestras, y un sobre prefranqueado para enviarnos las muestras recolectadas.
 
 ### **¿Dónde realizar el muestreo?**
 
 Como participante, colocarás cebos de agua con azúcar en una zona a tu elección. Puede ser:\
-1. El **patio/jardín de tu colegio**.\
+1. El **patio/jardín de tu colegio/instituto**.\
 2. Un **parque urbano** cercano (elige una zona poco transitada por perros o personas que puedan interferir con el muestreo).
 
 Observa tu entorno y escoge una zona donde observes hormigas andando por el suelo. Consúltanos si tienes alguna duda a la hora de elegir tu zona de muestreo, estaremos encantados de ayudarte.
@@ -39,11 +39,11 @@ En este proyecto, un cebo consiste en un tubo relleno de agua con azucar. Está 
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
-2.  **Recogida de los cebos**: Una hora después de colocarlos, recogerás los cebos y capturaras con las pinzas que te enviamos entre **1 y 6 obreras de cada tipo de hormiga presente por cebo** (idealmente 6 obreras de cada tipo si las hay), conservando todas las hormigas de un mismo cebo en un único microtubo con etanol. Usa las pinzas con delicadeza para evitar dañar las hormigas, si las hormigas estan dañadas no podremos usarlas en el estudio. **NOTA 1:** Puedes fijarte en el tamaño, color y forma para distinguir las distintas especies de hormigas. **NOTA 2:** Para facilitar la recolección de hormigas, puedes enfriar los tubos en el congelador o en una nevera portátil con hielo durante 20 minutos. **NOTA 3:** En el caso de hormigas pequeñas, mojar las pinzas en alcohol hace que tiendan a adherirse a la superficie y sean más facil de introducir en los microtubos. Para hormigas más grandes, puedes intentar agarrarlas por una pata para evitar dañarlas.
+2.  **Recogida de los cebos**: Una hora después de colocarlos, recogerás los cebos y capturaras con las pinzas que te enviamos entre **1 y 6 obreras de cada tipo de hormiga presente por cebo** (idealmente 6 obreras de cada tipo si las hay), conservando todas las hormigas de un mismo cebo en un único microtubo con etanol. Las hormigas deberán ser introducidas en los microtubos con etanol dentro de la hora siguiente a la recogida de los cebos. Usa las pinzas con delicadeza para evitar dañar las hormigas, si las hormigas estan dañadas no podremos usarlas en el estudio. **NOTA 1:** Puedes fijarte en el tamaño, color y forma para distinguir las distintas especies de hormigas. **NOTA 2:** Para facilitar la recolección de hormigas, puedes enfriar los tubos en el congelador o en una nevera portátil con hielo durante 20 minutos. **NOTA 3:** En el caso de hormigas pequeñas, mojar las pinzas en alcohol hace que tiendan a adherirse a la superficie y sean más facil de introducir en los microtubos. Para hormigas más grandes, puedes intentar agarrarlas por una pata para evitar dañarlas.
 
 <!-- -->
 
-3.  **Almacenamiento y envío**: Una vez recogidas las hormigas, los microtubos deben guardarse en la **nevera** hasta su envío en el sobre pre-franqueado que recibirás con el material del muestreo.
+3.  **Almacenamiento y envío**: Una vez recogidas las hormigas, los microtubos con las muestras deben guardarse en la **nevera** hasta su envío. Utiliza el sobre prefranqueado incluido con el material de muestreo y envíalas en un plazo máximo de una semana desde su recolección.
 
     Envianos una foto de tu zona de muestreo para que podamos caracterizarla, y si quieres, envianos también un selfie a través del email de contacto [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com) para que podamos incluir tu foto como participante en la web del proyecto.
 
