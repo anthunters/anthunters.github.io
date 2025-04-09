@@ -47,7 +47,7 @@ The sampling should be done on sunny days with good temperature, between May and
 
     <video width="400" height="225" controls>
 
-    <source src="img/video_cebo.mp4" type="video/mp4">
+    <source src="../img/video_cebo.mp4" type="video/mp4">
 
     </video>
 

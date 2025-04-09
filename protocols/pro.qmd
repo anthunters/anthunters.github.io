@@ -47,7 +47,7 @@ Los muestreos deben realizarse en días soleados, con buena temperatura, entre m
 
     <video width="400" height="225" controls>
 
-    <source src="img/video_cebo.mp4" type="video/mp4">
+    <source src="../img/video_cebo.mp4" type="video/mp4">
 
     </video>
 
