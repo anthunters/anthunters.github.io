@@ -11,7 +11,7 @@ comments: false
 
 Before anything else, we recommend you read the [Sampling Protocol](../protocols/kids.qmd). If you have already done so and want to participate in the project...
 
-Join by providing your details and the areas you wish to sample in this [form](https://forms.gle/aPqCb6c9CKwCMW679)
+**If you are a teacher** and want to do this with your students, join us by indicating your details and the school/high school or urban park where you will carry out the sampling in this [form](https://forms.gle/aPqCb6c9CKwCMW679)
 
 Or if you have any questions, you can contact us through {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
 

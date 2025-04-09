@@ -11,7 +11,7 @@ comments: false
 
 Antes de nada te recomendamos leerte el [Protocolo de muestreo](../protocols/kids.qmd). Si ya lo has hecho y quieres participar en el proyecto...
 
-Únete indícadonos tus datos y las zonas elegidas a muestrear en este [formulario](https://forms.gle/i9Dx6BGMYWXSK9PG6)
+**Si eres un profesor** y quieres realizarlo con tus alumnos, únete indícadonos tus datos y el colegio/instituto o parque urbano donde vayas a realizar el muestreo en este [formulario](https://forms.gle/i9Dx6BGMYWXSK9PG6)
 
 O si tienes alguna pregunta, puedes contactarnos a través de {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
 
