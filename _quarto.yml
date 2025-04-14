@@ -56,12 +56,14 @@ format:
     
 babelquarto:
   languagecodes:
-  - name: en
-    text: "English"
   - name: es
     text: "Español"
+  - name: en
+    text: "English"
+  - name: fr
+    text: "French"
   mainlanguage: 'es'
-  languages: ['en']
+  languages: ['en', 'fr']
 title-en:
 description-en: 
 author-en: Daniel Sánchez García

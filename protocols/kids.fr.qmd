@@ -1,0 +1,48 @@
+---
+title: "Ant Hunters Kids"
+subtitle: "Protocole Enfants pour les Écoles/Lycées"
+sortby: "2"
+image: kids7.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+En résumé, l'échantillonnage consiste à attirer les fourmis avec de l'eau sucrée et à les capturer dans la cour de l'école. Les échantillons sont ensuite conservés dans de l'éthanol et envoyés aux chercheurs. Voici une explication détaillée:
+
+### **De quoi avez-vous besoin?**
+
+Nous vous enverrons un **kit avec tout le matériel nécessaire pour participer**, comprenant un mini manuel d'instructions, des tubes avec de l'eau et du sucre pour les appâts, des pinces, des microtubes avec de l'éthanol pur pour conserver les échantillons, et une enveloppe prépayée pour nous envoyer les échantillons collectés.
+
+### **Où réaliser l'échantillonnage?**
+
+En tant que participant, vous placerez des appâts d'eau sucrée dans une zone de votre choix. Cela peut être :
+1. La **cour/le jardin de votre école/lycée**.
+2. Un **parc urbain à proximité** (choisissez une zone moins fréquentée par les chiens ou les personnes qui pourraient interférer avec l'échantillonnage).
+
+Observez votre environnement et choisissez une zone où vous voyez des fourmis marcher sur le sol. Faites-nous savoir si vous avez des doutes sur le choix de votre zone d'échantillonnage, nous serons heureux de vous aider.
+
+**Prenez une photo de votre zone d'échantillonnage**, cela nous aidera à la caractériser. Et n'oubliez pas de **prendre un selfie** pendant l'échantillonnage si vous souhaitez apparaître sur notre site web!
+
+### **Quand réaliser l'échantillonnage?**
+
+L'échantillonnage doit être effectué par une journée ensoleillée avec une bonne température, entre mai et juin 2025. Cela garantit que les fourmis sont actives et que les résultats sont représentatifs. L'échantillonnage doit être effectué en évitant les heures les plus chaudes de la journée (évitez entre 12:00h et 18:00h), car pendant cette période, de nombreuses espèces de fourmis peuvent ne pas être actives en raison de la chaleur.
+
+### **Comment réaliser un échantillonnage?**
+
+**Qu'est-ce qu'un appât dans ce projet?**
+
+Dans ce projet, un appât consiste en un tube rempli d'eau sucrée. Il est conçu pour attirer les fourmis, la douceur du sucre les encourage à s'approcher et à se nourrir, permettant l'observation et la collecte d'échantillons des différentes espèces. **NOTE:** N'ouvrez pas le tube d'appât trop tôt, car il contient une solution d'eau sucrée stérile et pourrait être contaminé.
+
+![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
+
+2.  **Collecte des appâts:** Une heure après les avoir placés, vous collecterez les appâts et utiliserez les pinces que nous vous avons envoyées pour capturer entre 1 et 6 fourmis ouvrières de chaque type présent par appât (idéalement 6 ouvrières de chaque espèce si disponibles). Toutes les fourmis du même appât doivent être conservées dans un seul microtube avec de l'éthanol. Les fourmis doivent être introduites dans les microtubes avec de l'éthanol dans l'heure suivant la collecte des appâts. Utilisez les pinces avec précaution pour éviter d'endommager les fourmis ; si les fourmis sont endommagées, nous ne pourrons pas les utiliser dans l'étude. **NOTE 1:** Vous pouvez observer la taille, la couleur et la forme pour distinguer les différentes espèces de fourmis. **NOTE 2:** Pour faciliter la collecte des fourmis, vous pouvez refroidir les tubes au congélateur ou dans une glacière portable avec de la glace pendant 20 minutes. **NOTE 3:** Dans le cas de petites fourmis, le fait de mouiller les pinces avec de l'alcool a pour effet de les faire adhérer à la surface et facilite leur introduction dans les microtubes. Pour les fourmis plus grandes, vous pouvez essayer de les saisir par une patte pour éviter de les endommager.
+
+<!-- -->
+
+3.  **Stockage et expédition:** Une fois les fourmis collectées, les microtubes contenant les échantillons doivent être conservés au **réfrigérateur** jusqu'à leur expédition. Utilisez l'enveloppe prépayée incluse avec le matériel d'échantillonnage et envoyez-les dans la semaine suivant la collecte.
+
+    Envoyez-nous une photo de votre zone d'échantillonnage afin que nous puissions la caractériser, et si vous le souhaitez, envoyez-nous également un selfie via l'adresse e-mail de contact [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com) afin que nous puissions inclure votre photo en tant que participant sur le site web du projet.
+
+**Vous avez maintenant appris une méthodologie scientifique pour échantillonner les fourmis!**

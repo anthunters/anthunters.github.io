@@ -1,0 +1,13 @@
+---
+title: "Comment participer à Ant Hunters?"
+title-block-banner: false
+comments: false
+---
+
+Avant toute chose, nous vous recommandons de lire le Protocole d'échantillonnage. Si vous l'avez déjà fait et que vous souhaitez participer au projet...
+
+Rejoignez-nous en nous indiquant vos informations et les zones que vous avez choisies d'échantillonner dans ce [formulaire](https://forms.gle/FWMSMmFQp17Zmj9g9)
+
+Ou si vous avez des questions, vous pouvez nous contacter via {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+
+Merci de votre intérêt à aider la science et à en découvrir davantage sur les fourmis de votre environnement ! Après avoir réalisé vos échantillonnages, nous vous enverrons un certificat de participation et un petit rapport sur les communautés de fourmis obtenues à partir de vos échantillonnages.

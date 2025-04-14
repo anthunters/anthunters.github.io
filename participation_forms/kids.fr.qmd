@@ -1,0 +1,18 @@
+---
+title: "Comment participer à Ant Hunters Kids?"
+subtitle: "Pour les Écoles/Lycées"
+sortby: "2"
+image: kids7.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+Avant toute chose, nous vous recommandons de lire le [Protocole d'Échantillonnage](../protocols/kids.qmd). Si vous l'avez déjà fait et que vous souhaitez participer au projet...
+
+**Si vous êtes enseignant** et que vous souhaitez faire cela avec vos élèves, rejoignez-nous en nous indiquant vos coordonnées et l'école/lycée ou le parc urbain où vous réaliserez l'échantillonnage dans ce [formulaire](https://forms.gle/aPqCb6c9CKwCMW679)
+
+u si vous avez des questions, vous pouvez nous contacter via {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+
+Merci de votre intérêt à aider la science et à en découvrir davantage sur les fourmis de votre environnement ! Après avoir effectué vos échantillonnages, nous vous enverrons un certificat de participation et un petit rapport sur les communautés de fourmis obtenues à partir de vos échantillonnages.

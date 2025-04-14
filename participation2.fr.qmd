@@ -1,0 +1,16 @@
+---
+title: "Comment participer à Ant Hunters?"
+listing:
+  - id : participartion_forms
+    contents: "participation_forms/*.qmd"
+    type: grid
+    image-height: 300px
+    grid-columns: 2
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+---
+
+::: {#participation_forms}
+:::
