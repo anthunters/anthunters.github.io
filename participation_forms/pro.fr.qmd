@@ -11,8 +11,8 @@ comments: false
 
 Avant toute chose, nous vous recommandons de lire le [Protocole d'Échantillonnage](../protocols/pro.qmd). Si vous l'avez déjà fait et que vous souhaitez participer au projet...
 
-Rejoignez-nous en nous fournissant vos coordonnées et les zones que vous souhaitez échantillonner dans ce [formulaire](https://forms.gle/P3N1jEVUXahPpKys5)
+Rejoignez-nous en nous fournissant vos coordonnées et les zones que vous souhaitez échantillonner dans ce [formulaire](https://forms.gle/1oqXuPXqYSALqv1c7)
 
-Ou si vous avez des questions, vous pouvez nous contacter via {{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+Ou si vous avez des questions, vous pouvez nous contacter via {{< fa envelope >}}   [anthuntersproject.fr\@gmail.com](mailto:anthuntersproject.fr@gmail.com)
 
 Merci de votre intérêt à aider la science et à en découvrir davantage sur les fourmis de votre environnement ! Après avoir effectué vos échantillonnages, nous vous enverrons un certificat de participation et un petit rapport sur les communautés de fourmis obtenues à partir de vos échantillonnages.

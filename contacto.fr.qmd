@@ -4,7 +4,7 @@ title-block-banner: false
 comments: false
 ---
 
-{{< fa envelope >}}   [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com)
+{{< fa envelope >}}   [anthuntersproject.fr\@gmail.com](mailto:anthuntersproject.fr@gmail.com)
 
 {{< fa location-dot >}}   Doñana Biological Station (EBD - CSIC)
 
