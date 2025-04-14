@@ -61,7 +61,9 @@ babelquarto:
   - name: en
     text: "English"
   - name: fr
-    text: "French"
+    text: "Français"
+  - name: pt
+    text: "Português"
   mainlanguage: 'es'
   languages: ['en', 'fr']
 title-en:

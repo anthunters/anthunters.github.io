@@ -1,0 +1,13 @@
+---
+title: ""
+about:
+  template: trestles
+  image: img/logo_bis2_crop.jpg
+  image-width: 20em
+  image-shape: rounded
+format:
+ html:
+  css: home-page-style2.css
+---
+
+# Junte-se a este projeto de ciência cidadã para estudar as formigas ao seu redor!
