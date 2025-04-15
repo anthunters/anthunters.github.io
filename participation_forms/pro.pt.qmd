@@ -11,8 +11,8 @@ comments: false
 
 Antes de mais nada, recomendamos que leia o [Protocolo de Amostragem](../protocols/pro.qmd). Se já o fez e deseja participar no projeto...
 
-Junte-se fornecendo os seus dados e as áreas que deseja amostrar neste [formulário](https://forms.gle/P3N1jEVUXahPpKys5)
+Junte-se fornecendo os seus dados e as áreas que deseja amostrar neste [formulário](https://forms.gle/SNDSVDBseeNAveh39)
 
-Ou se tiver alguma questão, pode contactar-nos através de {{< fa envelope >}}   [anthuntersproject.pt@gmail.com](mailto:anthuntersproject.pt@gmail.com)
+Ou se tiver alguma questão, pode contactar-nos através de {{< fa envelope >}}   [anthuntersproject.pt\@gmail.com](mailto:anthuntersproject.pt@gmail.com)
 
 Obrigado pelo seu interesse em ajudar a ciência e descobrir mais sobre as formigas ao seu redor! Após a conclusão das suas amostragens, enviar-lhe-emos um certificado de participação e um pequeno relatório sobre as comunidades de formigas obtidas a partir das suas amostragens.

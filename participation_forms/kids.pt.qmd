@@ -11,8 +11,8 @@ comments: false
 
 Antes de mais nada, recomendamos que leia o [Protocolo de Amostragem](../protocols/kids.qmd). Se já o fez e deseja participar no projeto...
 
-**Se você é professor** e deseja fazer isso com seus alunos, junte-se a nós indicando seus dados e a escola/liceu ou parque urbano onde você realizará a amostragem neste [formulário](https://forms.gle/aPqCb6c9CKwCMW679)
+**Se você é professor** e deseja fazer isso com seus alunos, junte-se a nós indicando seus dados e a escola/liceu ou parque urbano onde você realizará a amostragem neste [formulário](https://forms.gle/uQtyCMUPVNh6nvWe6)
 
-Ou se você tiver alguma dúvida, pode nos contatar através de {{< fa envelope >}}   [anthuntersproject.pt@gmail.com](mailto:anthuntersproject.pt@gmail.com)
+Ou se você tiver alguma dúvida, pode nos contatar através de {{< fa envelope >}}   [anthuntersproject.pt\@gmail.com](mailto:anthuntersproject.pt@gmail.com)
 
 Obrigado pelo seu interesse em ajudar a ciência e descobrir mais sobre as formigas ao seu redor! Após a conclusão de suas amostragens, enviaremos a você um certificado de participação e um pequeno relatório sobre as comunidades de formigas obtidas a partir de suas amostragens.
