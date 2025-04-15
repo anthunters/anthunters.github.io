@@ -65,7 +65,7 @@ babelquarto:
   - name: pt
     text: "Português"
   mainlanguage: 'es'
-  languages: ['en', 'fr']
+  languages: ['en', 'fr', 'pt']
 title-en:
 description-en: 
 author-en: Daniel Sánchez García

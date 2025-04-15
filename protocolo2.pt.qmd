@@ -1,0 +1,16 @@
+---
+title: "Protocolos de amostragem"
+listing:
+  - id : protocols
+    contents: "protocols/*.qmd"
+    type: grid
+    image-height: 300px
+    grid-columns: 2
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    categories: false
+---
+
+::: {#protocols}
+:::

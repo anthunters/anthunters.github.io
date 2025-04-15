@@ -31,7 +31,7 @@ The sampling should be done on sunny days with good temperature, between May and
 
 ### **How is the sampling conducted?**
 
-1.  **The sampling will be repeated over 3 periods of the same day**:
+1.  **The sampling will be repeated over 3 periods of the same day:**
 
     1.  In the morning, start at 10:00 AM – sample collection at 11:00 AM
 

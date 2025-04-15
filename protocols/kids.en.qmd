@@ -41,7 +41,7 @@ In this project, a bait consists of a tube filled with sugar water. It is design
 
 <!-- -->
 
-3.  **Storage and shipping**: Once collected the ants, the microtubes containing the samples should be stored in the **refrigerator** until they are shipped. Use the pre-paid envelope included with the sampling materials and send them within one week of collection.
+3.  **Storage and shipping:** Once collected the ants, the microtubes containing the samples should be stored in the **refrigerator** until they are shipped. Use the pre-paid envelope included with the sampling materials and send them within one week of collection.
 
     Send us a photo of your sampling zone so that we can characterize it, and if you want, also send us a selfie through the contact email [anthuntersproject\@gmail.com](mailto:anthuntersproject@gmail.com) so we can include your photo as a participant on the project's website.
 

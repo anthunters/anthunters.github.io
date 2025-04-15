@@ -1,0 +1,70 @@
+---
+title: "Ant Hunters Pro"
+subtitle: "Protocolo Pro para Cidadãos"
+sortby: "1"
+image: pro4.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+Em resumo, a amostragem consiste em atrair formigas com água e açúcar e capturá-las em diferentes horas do dia num parque urbano e numa área natural. Depois, as amostras são preservadas em etanol e enviadas aos investigadores. Aqui está uma explicação detalhada:
+
+### **O que precisa?**
+
+Enviaremos um **kit com todos os materiais necessários para participar**, incluindo um manual de instruções que poderá levar para os locais de amostragem, placas de Petri e algodão para as iscas, frascos para a água, açúcar, pipeta, pinças, microtubos com etanol puro para preservar as amostras, um modelo de recolha de dados e um envelope pré-pago para nos enviar as amostras recolhidas.
+
+### **Onde realizar a amostragem?**
+
+Como participante, irá colocar iscos de água com açúcar em duas áreas à sua escolha:
+1. Um **parque urbano** (escolha um local com pouco tráfego de cães ou pessoas que possam interferir na amostragem)
+2. Uma **área natural** (floresta, prado ou qualquer outro espaço natural não afetado pela intervenção humana. Evite campos cultivados e ambientes seminaturais).
+
+Consulte-nos se tiver alguma questão ao escolher as suas áreas de amostragem, teremos todo o prazer em ajudar.
+
+**Tire uma fotografia das suas áreas de amostragem**, isto ajudar-nos-á a caracterizá-las. E não se esqueça de tirar uma selfie durante a amostragem para poder aparecer no nosso site!
+
+### **Quando realizar a amostragem?**
+
+A amostragem deve ser feita em dias de sol com boa temperatura, entre maio e junho de 2025. Isto garante que as formigas estão ativas e que os resultados são representativos. Se estiver a participar individualmente, precisará de dois dias para concluir o estudo, um para a amostragem urbana e outro para a amostragem na área natural, mas também pode **colaborar com outra pessoa** e cada um amostrar uma área, ou fazer a amostragem em conjunto.
+
+### **Como é realizada a amostragem?**
+
+1.  **A amostragem será repetida em 3 períodos do mesmo dia:**
+
+    1.  De manhã, comece às 10:00h – recolha de amostras às 11:00h
+
+    2.  Ao meio-dia, comece às 13:00h – recolha de amostras às 14:00h
+
+    3.  Ao pôr do sol, comece às 20:00h – recolha de amostras às 21:00h
+
+2.  **Preparação da isca: O que é uma isca neste projeto?**
+
+    Neste projeto, uma isca consiste numa placa de Petri na qual é colocada uma bola de algodão embebida em água com açúcar. É concebida para atrair formigas, pois a doçura do açúcar encoraja-as a aproximarem-se e a alimentarem-se, permitindo-lhe observar e recolher amostras das diferentes espécies presentes na área.
+
+    <figure>
+
+    <video width="400" height="225" controls>
+
+    <source src="../img/video_cebo.mp4" type="video/mp4">
+
+    </video>
+
+    <figcaption>Isca de água com açúcar explorada por *Aphaenogaster iberica* e *Cataglyphis hispanica*. Vídeo: Juan Pascual</figcaption>
+
+    </figure>
+
+    **Antes de ir para a sua área de amostragem**, deve ferver água da torneira durante 10 minutos e transportá-la nos 3 frascos fornecidos para preparar a solução de água com açúcar (um para cada período de amostragem: manhã, tarde e noite). Antes de cada período de amostragem, **no campo, mesmo antes de começar a amostragem**, irá adicionar açúcar à água (enviaremos a quantidade necessária de açúcar para dissolver em cada um dos frascos de água), agitar suavemente durante um minuto até que esteja completamente dissolvido e adicionar 2 ml de água com açúcar a cada uma das 10 iscas correspondentes.
+
+3.  **Colocação das iscas:** Na área selecionada, irá colocar **10 iscas** em linha reta, separadas por **10 metros**. Alternativamente, se as dimensões da área de amostragem não o permitirem, pode dispor as iscas em dois transectos de 5 iscas, cada um separado por pelo menos 10 metros, ou em três transectos de 3, 3 e 4 iscas, também separados por pelo menos 10 metros. Quando repetir a amostragem ao meio-dia e ao anoitecer, tente colocar as iscas no mesmo local que de manhã. **NOTA:** 10 metros equivalem aproximadamente a 13 passos de uma pessoa com 1,85 metros de altura, ou 15 passos de uma pessoa com 1,65 metros de altura.
+
+![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
+
+4.  **Revisão das iscas:** Uma hora após a colocação das iscas durante cada período de amostragem, irá verificar as iscas e recolher com as pinças que lhe enviámos entre **1 e 6 operárias de cada espécie presente por isca** (idealmente 6 operárias de cada espécie, se disponíveis), preservando todas as formigas de uma única isca num microtubo com etanol. Use as pinças com cuidado para evitar danificar as formigas; se as formigas estiverem danificadas, não poderemos utilizá-las no estudo. **NOTA:** No caso de formigas pequenas, molhar as pinças com álcool faz com que tendam a aderir à superfície e torna mais fácil introduzi-las nos microtubos. Para formigas maiores, pode tentar agarrá-las por uma perna para evitar danificá-las.
+
+    **Se não souber como identificar** as diferentes espécies de formigas, não se preocupe. Usando as pinças que enviámos, recolha até um máximo de 6 operárias de cada tipo de formiga que observar com morfologia diferente (tamanho, cor, forma). **Se tiver experiência na identificação de espécies**, além de nos enviar as amostras que recolheu, pode também incluir a informação das suas identificações num modelo simples que lhe enviaremos e devolvê-lo-nos por e-mail. Envie-nos também fotos das suas áreas de amostragem e a sua selfie através do e-mail de contacto [anthuntersproject.pt@gmail.com](mailto:anthuntersproject.pt@gmail.com)
+
+5.  **Armazenamento e envio:** Uma vez recolhidas as formigas, os microtubos que contêm as amostras devem ser armazenados no **frigorífico** até serem enviados. Utilize o envelope pré-pago incluído com os materiais de amostragem e envie-os no prazo de uma semana após a recolha.
+
+Agora é um especialista no estudo da atividade das formigas! **O mesmo procedimento deve ser repetido na segunda área de amostragem selecionada.**
