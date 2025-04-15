@@ -11,8 +11,8 @@ comments: false
 
 Prima di tutto, ti raccomandiamo di leggere il [Protocollo di Campionamento](../protocols/kids.qmd). Se l'hai già fatto e desideri partecipare al progetto...
 
-**Se sei un insegnante** e vuoi partecipare con i tuoi studenti, unisciti a noi indicando i tuoi dati e la scuola/scuola superiore o il parco urbano dove effettuerai il campionamento in questo [modulo](https://forms.gle/aPqCb6c9CKwCMW679)
+**Se sei un insegnante** e vuoi partecipare con i tuoi studenti, unisciti a noi indicando i tuoi dati e la scuola/scuola superiore o il parco urbano dove effettuerai il campionamento in questo [modulo](https://forms.gle/m8Jkk65jxiyhMxAZ9)
 
-Oppure, se hai qualsiasi domanda, puoi contattarci tramite {{< fa envelope >}}   [anthuntersproject.it@gmail.com](mailto:anthuntersproject.it@gmail.com)
+Oppure, se hai qualsiasi domanda, puoi contattarci tramite {{< fa envelope >}}   [anthuntersproject.it\@gmail.com](mailto:anthuntersproject.it@gmail.com)
 
 Grazie per il tuo interesse nell'aiutare la scienza e scoprire di più sulle formiche che ti circondano! Dopo aver completato i tuoi campionamenti, ti invieremo un certificato di partecipazione e un breve rapporto sulle comunità di formiche ottenute dai tuoi campionamenti.
