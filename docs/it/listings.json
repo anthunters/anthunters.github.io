@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/participation2.html",
+    "items": [
+      "/participation_forms/pro.html",
+      "/participation_forms/kids.html"
+    ]
+  },
+  {
+    "listing": "/protocolo2.html",
+    "items": [
+      "/protocols/pro.html",
+      "/protocols/kids.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/research/daniel.html",
+      "/team/research/elena.html",
+      "/team/research/xim.html",
+      "/team/research/ana.html",
+      "/team/research/ahmed.html",
+      "/team/research/roberto.html"
+    ]
+  }
+]
