@@ -17,9 +17,7 @@ Enviaremos um **kit com todos os materiais necessários para participar**, inclu
 
 ### **Onde realizar a amostragem?**
 
-Como participante, irá colocar iscos de água com açúcar numa zona à sua escolha. Pode ser:
-1. O **pátio/jardim da sua escola/liceu.**
-2. Um **parque urbano** próximo (escolha uma zona menos movimentada por cães ou pessoas que possam interferir na amostragem).
+Como participante, irá colocar iscos de água com açúcar numa zona à sua escolha. Pode ser: 1. O **pátio/jardim da sua escola/liceu.** 2. Um **parque urbano** próximo (escolha uma zona menos movimentada por cães ou pessoas que possam interferir na amostragem).
 
 Observe os seus arredores e escolha uma zona onde veja formigas a caminhar no chão. Informe-nos se tiver alguma dúvida sobre a escolha da sua zona de amostragem, teremos todo o prazer em ajudar.
 
@@ -37,12 +35,12 @@ Neste projeto, uma isca consiste num tubo cheio de água com açúcar. É conceb
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
 
-2.  **Recolha das iscas:** Uma hora após a colocação, irá recolher as iscas e utilizar as pinças que enviámos para capturar entre 1 e 6 formigas operárias de cada tipo presente por isca (idealmente 6 operárias de cada espécie, se disponíveis). Todas as formigas da mesma isca devem ser preservadas num único microtubo com etanol. As formigas devem ser introduzidas nos microtubos com etanol dentro da hora seguinte à recolha das iscas. Use as pinças com cuidado para evitar danificar as formigas; se as formigas estiverem danificadas, não poderemos utilizá-las no estudo. **NOTA 1:** Pode observar o tamanho, a cor e a forma para distinguir entre diferentes espécies de formigas. **NOTA 2:** Para facilitar a recolha de formigas, pode arrefecer os tubos no congelador ou numa geleira portátil com gelo durante 20 minutos. **NOTA 3:** No caso de formigas pequenas, molhar as pinças com álcool faz com que tendam a aderir à superfície e torna mais fácil introduzi-las nos microtubos. Para formigas maiores, pode tentar agarrá-las por uma perna para evitar danificá-las.
+2.  **Recolha das iscas:** Uma hora depois de as colocar, irá recolher as iscas **fechando os tubos com as suas tampas**. As formigas deverão ser introduzidas nos microtubos com etanol dentro da hora seguinte à recolha das iscas. Pegue com as pinças que lhe enviamos entre **1 e 6 operárias de cada tipo de formiga presente por isca** (idealmente 6 operárias de cada tipo, se as houver), conservando todas as formigas de uma mesma isca num único microtubo com etanol. Use as pinças com delicadeza para evitar danificar as formigas; se as formigas estiverem danificadas, não poderemos usá-las no estudo. **NOTA 1:** Pode reparar no tamanho, cor e forma para distinguir as diferentes espécies de formigas. **NOTA 2:** Para facilitar a recolha de formigas, pode arrefecer os tubos no congelador ou numa geleira portátil com gelo durante 20 minutos. **NOTA 3:** No caso de formigas pequenas, molhar as pinças em álcool faz com que tendam a aderir à superfície e sejam mais fáceis de introduzir nos microtubos. Para formigas maiores, pode tentar agarrá-las por uma pata para evitar danificá-las.
 
 <!-- -->
 
 3.  **Armazenamento e envio:** Uma vez recolhidas as formigas, os microtubos que contêm as amostras devem ser armazenados no frigorífico até serem enviados. Utilize o envelope pré-pago incluído com os materiais de amostragem e envie-os no prazo de uma semana após a recolha.
 
-    Envie-nos uma foto da sua zona de amostragem para que a possamos caracterizar e, se quiser, envie-nos também uma selfie através do e-mail de contacto [anthuntersproject.pt@gmail.com](mailto:anthuntersproject.pt@gmail.com) para podermos incluir a sua foto como participante no site do projeto.
+    Envie-nos uma foto da sua zona de amostragem para que a possamos caracterizar e, se quiser, envie-nos também uma selfie através do e-mail de contacto [anthuntersproject.pt\@gmail.com](mailto:anthuntersproject.pt@gmail.com) para podermos incluir a sua foto como participante no site do projeto.
 
 **Agora aprendeu uma metodologia científica para amostrar formigas!**

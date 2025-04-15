@@ -1,0 +1,21 @@
+---
+title: "Ahmed Taheri"
+subtitle: "Coordinator of Morocco"
+sortby: "5"
+image: ahmed.jpg
+# started: "date"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: "mailto:amd.taheri@gmail.com"
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=FyxIvBUAAAAJ&hl=fr
+---
+
+::: {#person-profile}
+:::
