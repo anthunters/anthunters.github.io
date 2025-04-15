@@ -1,0 +1,9 @@
+---
+title: "Sponsor"
+title-block-banner: false
+comments: false
+---
+
+Vogliamo ringraziare [anthouse](https://anthouse.es/es/) per aver sponsorizzato questo progetto.
+
+![](img/anthouse_crop.jpg){fig-align="center"}

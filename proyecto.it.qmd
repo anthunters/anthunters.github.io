@@ -1,0 +1,13 @@
+---
+title: "Cos'è Ant Hunters?"
+title-block-banner: false
+comments: false
+---
+
+Questo è un progetto di citizen science coordinato da [ricercatori](team.qmd) del Gruppo di Ecologia delle Formiche presso la Stazione Biologica di Doñana (EBD - CSIC), che ti invita a diventare un ricercatore ed esplorare la biodiversità di questi incredibili insetti nel tuo ambiente.
+
+**Ti insegniamo** uno dei metodi di campionamento utilizzati dai ricercatori per studiare le formiche. Ti offriamo due modi per partecipare: uno come citizen scientist e un altro come insegnante. Potrai imparare e trarre le tue conclusioni e, **se sei un insegnante**, potrai utilizzarlo come attività con i tuoi studenti. **Come?** È semplice e divertente! Posizionerai esche di acqua zuccherata e osserverai le specie che coesistono con te e come arrivano a vivere insieme. Ti forniremo un **kit AntHunter** completo di tutto il necessario, incluse istruzioni dettagliate e materiali per la raccolta dei campioni. Inoltre, ti suggeriremo attività complementari che potrai svolgere dopo lo studio utilizzando i materiali del kit.
+
+Questo progetto non solo ti permetterà di conoscere la biologia e il comportamento delle formiche, ma ti renderà anche un partecipante attivo nella generazione di conoscenza scientifica. La tua partecipazione aiuterà gli scienziati a raccogliere campioni e a comprendere meglio aspetti chiave della distribuzione, delle interazioni, della microbiologia e della genetica delle formiche. Non è necessario essere un esperto, solo curioso e disposto a contribuire alla scienza.
+
+Diventa un Ant Hunter e fai parte di questo entusiasmante progetto!

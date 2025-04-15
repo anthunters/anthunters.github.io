@@ -1,5 +1,5 @@
 ---
-title: "Daniel Sánchez García"
+title: "Daniel Sánchez-García"
 subtitle: "Líder del proyecto"
 sortby: "1"
 image: daniel.jpg

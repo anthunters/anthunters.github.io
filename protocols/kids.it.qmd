@@ -1,0 +1,48 @@
+---
+title: "Ant Hunters Kids"
+subtitle: "Protocollo Kids per Scuole/Scuole Superiori"
+sortby: "2"
+image: kids7.jpg
+# started: "date"
+toc: true
+title-block-banner: false
+comments: false
+---
+
+In sintesi, il campionamento consiste nell'attrarre le formiche con acqua zuccherata e catturarle nel cortile della scuola. I campioni vengono poi conservati in etanolo e inviati ai ricercatori. Ecco una spiegazione dettagliata:
+
+### **Di cosa hai bisogno?**
+
+Ti invieremo un **kit con tutto il materiale necessario per partecipare**, incluso un mini manuale di istruzioni, provette con acqua e zucchero per le esche, pinzette, microprovette con etanolo puro per conservare i campioni e una busta preaffrancata per inviarci i campioni raccolti.
+
+### **Dove eseguire il campionamento?**
+
+Come partecipante, posizionerai le esche di acqua zuccherata in una zona a tua scelta. Può essere:
+1. Il **cortile/giardino della tua scuola/scuola superiore**.
+2. Un **parco urbano** vicino (scegli una zona meno trafficata da cani o persone che potrebbero interferire con il campionamento).
+
+Osserva l'ambiente circostante e scegli una zona dove vedi le formiche camminare sul terreno. Facci sapere se hai dubbi sulla scelta della tua zona di campionamento, saremo felici di aiutarti.
+
+**Scatta una foto della tua zona di campionamento**, questo ci aiuterà a caratterizzarla. E non dimenticare di **scattare un selfie** durante il campionamento se vuoi apparire sul nostro sito web!
+
+### **Quando eseguire il campionamento?**
+
+Il campionamento deve essere effettuato in una giornata di sole con una buona temperatura, tra maggio e giugno 2025. Ciò garantisce che le formiche siano attive e che i risultati siano rappresentativi. Il campionamento deve essere effettuato evitando le ore più calde della giornata (evitare tra le 12:00h e le 18:00h), poiché durante questo periodo molte specie di formiche potrebbero non essere attive a causa del caldo.
+
+### **Come eseguire un campionamento?**
+
+**Cos'è un'esca in questo progetto?**
+
+In questo progetto, un'esca consiste in una provetta riempita con acqua zuccherata. È progettata per attirare le formiche, la dolcezza dello zucchero le incoraggia ad avvicinarsi e a nutrirsi, consentendo l'osservazione e la raccolta di campioni delle diverse specie. **NOTA:** Non aprire la provetta dell'esca troppo presto, poiché contiene una soluzione sterile di acqua zuccherata e potrebbe contaminarsi.
+
+![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
+
+2.  **Raccolta delle esche:** Un'ora dopo averle posizionate, raccoglierai le esche **chiudendo le provette con i loro tappi**. Le formiche devono essere introdotte nelle microprovette con etanolo entro un'ora dalla raccolta delle esche. Usa le pinzette che ti abbiamo inviato per raccogliere tra **1 e 6 formiche operaie di ciascun tipo presente per esca** (idealmente 6 operaie per ciascun tipo, se disponibili), conservando tutte le formiche della stessa esca in una singola microprovetta con etanolo. Usa le pinzette delicatamente per evitare di danneggiare le formiche; se le formiche sono danneggiate, non potremo utilizzarle nello studio. **NOTA 1:** Puoi guardare le dimensioni, il colore e la forma per distinguere le diverse specie di formiche. **NOTA 2:** Per facilitare la raccolta delle formiche, puoi raffreddare le provette nel congelatore o in una borsa frigo portatile con ghiaccio per 20 minuti. **NOTA 3:** Nel caso di formiche piccole, bagnare le pinzette con alcool fa sì che tendano ad aderire alla superficie e siano più facili da introdurre nelle microprovette. Per le formiche più grandi, puoi provare ad afferrarle per una zampa per evitare di danneggiarle.
+
+<!-- -->
+
+3.  **Conservazione e spedizione:** Una volta raccolte le formiche, le microprovette contenenti i campioni devono essere conservate in **frigorifero** fino alla spedizione. Utilizza la busta preaffrancata inclusa nel materiale di campionamento e spediscile entro una settimana dalla raccolta.
+
+    Inviaci una foto della tua zona di campionamento in modo che possiamo caratterizzarla e, se vuoi, inviaci anche un selfie tramite l'email di contatto [anthuntersproject.it@gmail.com](mailto:anthuntersproject.it@gmail.com) in modo che possiamo includere la tua foto come partecipante sul sito web del progetto.
+
+**Ora hai imparato una metodologia scientifica per campionare le formiche!**

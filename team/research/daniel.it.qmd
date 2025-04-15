@@ -1,6 +1,6 @@
 ---
 title: "Daniel Sánchez-García"
-subtitle: "Project Leader"
+subtitle: "Leader del Progetto"
 sortby: "1"
 image: daniel.jpg
 # started: "date"

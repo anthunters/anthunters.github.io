@@ -1,6 +1,6 @@
 ---
 title: "Ant Hunters Kids"
-subtitle: "Protocole Enfants pour les Écoles/Lycées"
+subtitle: "Protocole Kids pour les Écoles/Lycées"
 sortby: "2"
 image: kids7.jpg
 # started: "date"
@@ -34,8 +34,6 @@ L'échantillonnage doit être effectué un jour ensoleillé avec une bonne temp�
 Dans ce projet, un appât consiste en un tube rempli d'eau sucrée. Il est conçu pour attirer les fourmis, la douceur du sucre les encourage à s'approcher et à se nourrir, permettant l'observation et la collecte d'échantillons des différentes espèces. **NOTE:** N'ouvrez pas le tube d'appât trop tôt, car il contient une solution d'eau sucrée stérile et pourrait être contaminé.
 
 ![](../img/PROTOCOLO_MUESTREO.jpg){fig-align="center"}
-
-
 
 2.  **Collecte des appâts:** Une heure après les avoir placés, vous collecterez les appâts en **fermant les tubes avec les bouchons**. Les fourmis doivent être introduites dans les microtubes avec de l’éthanol dans l’heure suivant la collecte des appâts. Utilisez les pinces que nous vous avons envoyées pour choisir entre **1 et 6 fourmis ouvrières de chaque type présent par appât** (idéalement 6 ouvrières de chaque espèce si disponibles). Toutes les fourmis du même appât doivent être conservées dans un seul microtube avec de l’éthanol. Utilisez les pinces avec précaution pour éviter d'endommager les fourmis ; si les fourmis sont endommagées, nous ne pourrons pas les utiliser dans l'étude. **NOTE 1:** Vous pouvez observer la taille, la couleur et la forme pour distinguer les différentes espèces de fourmis. **NOTE 2:** Pour faciliter la collecte des fourmis, vous pouvez refroidir les tubes au congélateur ou dans une glacière portable avec de la glace pendant 20 minutes. **NOTE 3:** Dans le cas de petites fourmis, le fait de mouiller les pinces avec de l'alcool a pour effet de les faire adhérer à la surface et facilite leur introduction dans les microtubes. Pour les fourmis plus grandes, vous pouvez essayer de les saisir par une patte pour éviter de les endommager.
 
