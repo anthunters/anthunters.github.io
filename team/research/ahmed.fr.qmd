@@ -11,7 +11,7 @@ about:
   links:
     - icon: envelope
       text: email
-      href: "mailto:amd.taheri@gmail.com"
+      href: "mailto:taheri.ahmed@ucd.ac.ma"
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.com/citations?user=FyxIvBUAAAAJ&hl=fr
