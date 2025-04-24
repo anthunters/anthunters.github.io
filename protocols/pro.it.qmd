@@ -13,13 +13,11 @@ In sintesi, il campionamento consiste nell'attrarre le formiche con acqua zucche
 
 ### **Di cosa hai bisogno?**
 
-Ti invieremo un **kit con tutto il materiale necessario per partecipare**, incluso un manuale di istruzioni che potrai portare nei siti di campionamento, piastre di Petri e cotone per le esche, flaconi per l'acqua, zucchero, pipetta, pinzette, microprovette con etanolo puro per conservare i campioni, un modello per la raccolta dati e una busta preaffrancata per inviarci i campioni raccolti.
+Ti invieremo un **kit con tutto il materiale necessario per partecipare**, incluso un manuale di istruzioni che potrai portare nei siti di campionamento, piastre di Petri e cotone per le esche, flaconcini con una soluzione sterile di acqua e zucchero, una pipetta, pinzette, microprovette con etanolo puro per conservare i campioni, un modello per la raccolta dati e una busta preaffrancata per inviarci i campioni raccolti.
 
 ### **Dove condurre il campionamento?**
 
-Come partecipante, collocherai esche di acqua zuccherata in due aree a tua scelta:
-1. Un **parco urbano** (scegli una posizione con poco passaggio di cani o persone che potrebbero interferire con il campionamento).
-2. Un'**area naturale** (bosco, prato o qualsiasi altro spazio naturale non interessato dall'intervento umano. Evita campi coltivati e ambienti seminaturali).
+Come partecipante, collocherai esche di acqua zuccherata in due aree a tua scelta: 1. Un **parco urbano** (scegli una posizione con poco passaggio di cani o persone che potrebbero interferire con il campionamento). 2. Un'**area naturale** (bosco, prato o qualsiasi altro spazio naturale non interessato dall'intervento umano. Evita campi coltivati e ambienti seminaturali).
 
 Consultaci se hai domande sulla scelta delle tue aree di campionamento, saremo felici di aiutarti.
 
@@ -55,7 +53,7 @@ Il campionamento dovrebbe essere effettuato in giornate soleggiate con buona tem
 
     </figure>
 
-    **Prima di recarti nella tua area di campionamento**, dovresti far bollire l'acqua del rubinetto per 10 minuti e trasportarla nei 3 flaconi forniti per preparare la soluzione di acqua zuccherata (uno per ogni periodo di campionamento: mattina, pomeriggio e sera). Prima di ogni periodo di campionamento, **sul campo appena prima di iniziare il campionamento**, aggiungerai lo zucchero all'acqua (ti invieremo la quantità necessaria di zucchero da sciogliere in ciascuno dei flaconi d'acqua), agiterai delicatamente per un minuto fino a completo scioglimento e aggiungerai 2 ml di acqua zuccherata a ciascuna delle 10 esche corrispondenti.
+    Ti invieremo un flaconcino con una soluzione sterile di acqua e zucchero per ciascuno dei campionamenti. **Poco prima di iniziare il campionamento corrispondente**, aprirai un flaconcino con la soluzione sterile di acqua e zucchero e aggiungerai 3 ml in ognuna delle 10 esche di quel campionamento.
 
 3.  **Posizionamento delle esche:** Nell'area selezionata, posizionerai **10 esche** in linea retta, separate da **10 metri**. In alternativa, se le dimensioni dell'area di campionamento non lo consentono, puoi disporre le esche in due transetti di 5 esche, ciascuno separato da almeno 10 metri, o in tre transetti di 3, 3 e 4 esche, anch'essi separati da almeno 10 metri. Quando ripeti il campionamento a mezzogiorno e al tramonto, cerca di posizionare le esche nella stessa posizione della mattina. **NOTA:** 10 metri equivalgono approssimativamente a 13 passi di una persona alta 1,85 metri, o 15 passi di una persona alta 1,65 metri.
 
@@ -63,7 +61,7 @@ Il campionamento dovrebbe essere effettuato in giornate soleggiate con buona tem
 
 4.  **Controllo delle esche:** Un'ora dopo aver posizionato le esche durante ogni periodo di campionamento, controllerai le esche e raccoglierai con le pinzette che ti abbiamo inviato tra **1 e 6 operaie di ciascuna specie presente per esca** (idealmente 6 operaie di ciascuna specie, se disponibili), conservando tutte le formiche di una singola esca in una microprovetta con etanolo. Usa le pinze delicatamente per evitare di danneggiare le formiche; se le formiche sono danneggiate, non potremo utilizzarle nello studio. **NOTA:** Nel caso di formiche piccole, bagnare le pinze con alcool fa sì che tendano ad aderire alla superficie e le rende più facili da introdurre nelle microprovette. Per le formiche più grandi, puoi provare ad afferrarle per una zampa per evitare di danneggiarle.
 
-    **Se non sai come identificare** le diverse specie di formiche, non preoccuparti. Usando le pinzette che ti abbiamo inviato, raccogli fino a un massimo di 6 operaie per ogni tipo di formica che osservi con diversa morfologia (dimensione, colore, forma). **Se hai esperienza nell'identificazione delle specie**, oltre a inviarci i campioni che hai raccolto, puoi anche includere le informazioni delle tue identificazioni in un semplice modello che ti invieremo e restituirlo via email. Inoltre, inviaci foto delle tue aree di campionamento e il tuo selfie tramite l'email di contatto [anthuntersproject.it@gmail.com](mailto:anthuntersproject.it@gmail.com)
+    **Se non sai come identificare** le diverse specie di formiche, non preoccuparti. Usando le pinzette che ti abbiamo inviato, raccogli fino a un massimo di 6 operaie per ogni tipo di formica che osservi con diversa morfologia (dimensione, colore, forma). **Se hai esperienza nell'identificazione delle specie**, oltre a inviarci i campioni che hai raccolto, puoi anche includere le informazioni delle tue identificazioni in un semplice modello che ti invieremo e restituirlo via email. Inoltre, inviaci foto delle tue aree di campionamento e il tuo selfie tramite l'email di contatto [anthuntersproject.it\@gmail.com](mailto:anthuntersproject.it@gmail.com)
 
 5.  **Conservazione e spedizione:** Una volta raccolte le formiche, le microprovette contenenti i campioni devono essere conservate in **frigorifero** fino alla spedizione. Utilizza la busta preaffrancata inclusa nel materiale di campionamento e spediscile entro una settimana dalla raccolta.
 
