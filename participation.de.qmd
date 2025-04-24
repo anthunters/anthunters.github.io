@@ -1,0 +1,13 @@
+---
+title: "Wie kann man bei Ant Hunters mitmachen?"
+title-block-banner: false
+comments: false
+---
+
+Zunächst empfehlen wir Ihnen, das Probenahmeprotokoll zu lesen. Wenn Sie dies bereits getan haben und am Projekt teilnehmen möchten...
+
+Werden Sie Teil von uns, indem Sie Ihre Informationen und die Gebiete, die Sie für die Probenahme ausgewählt haben, in diesem [Formular](https://forms.gle/FWMSMmFQp17Zmj9g9) angeben.
+
+Oder wenn Sie Fragen haben, können Sie uns über {{< fa envelope >}}   [anthuntersproject.de\@gmail.com](mailto:anthuntersproject.de@gmail.com)
+
+Vielen Dank für Ihr Interesse an der Unterstützung der Wissenschaft und daran, mehr über die Ameisen in Ihrer Umgebung zu erfahren! Nach der Durchführung Ihrer Probenahme senden wir Ihnen eine Teilnahmebescheinigung und einen kurzen Bericht über die aus Ihren Proben gewonnenen Ameisengemeinschaften zu.

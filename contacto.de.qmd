@@ -1,0 +1,18 @@
+---
+title: "Kontakt"
+title-block-banner: false
+comments: false
+---
+
+{{< fa envelope >}}   [anthuntersproject.de@gmail.com](mailto:anthuntersproject.de@gmail.com)
+
+{{< fa location-dot >}}   Doñana Biological Station (EBD - CSIC)
+
+{{< fa people-group >}}   [Ant ecology group](www.ant-ecology.eu)
+
+```{r, echo=FALSE, warning=FALSE, fig.height=1, fig.width=2}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-6.006, lat=37.4119)
+```

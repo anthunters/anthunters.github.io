@@ -1,0 +1,13 @@
+---
+title: ""
+about:
+  template: trestles
+  image: img/logo_bis2_crop.jpg
+  image-width: 20em
+  image-shape: rounded
+format:
+ html:
+  css: home-page-style2.css
+---
+
+# Mach mit bei diesem Bürgerwissenschaftsprojekt, um die Ameisen in deiner Umgebung zu erforschen!
