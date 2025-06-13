@@ -11,3 +11,96 @@ format:
 ---
 
 # Rejoignez ce projet de science citoyenne pour étudier les fourmis autour de vous !
+
+```{r, fig.width=8, fig.height=6, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(readxl)
+data <- read_excel("map/sampling_points_AH.xlsx")
+
+library(dplyr)
+data <- data %>%
+  mutate(
+    latitude = as.numeric(latitude),
+    longitude = as.numeric(longitude)
+  ) %>%
+  filter(!is.na(latitude), !is.na(longitude))
+
+library(dplyr)
+library(leaflet)
+
+# Asegurarse de que lat/lon son numéricos y válidos
+data <- data %>%
+  mutate(
+    latitude = as.numeric(latitude),
+    longitude = as.numeric(longitude)
+  ) %>%
+  filter(!is.na(latitude), !is.na(longitude))
+
+# Crear el mapa con puntos por grupo "PRO" y "KIDS"
+map <- leaflet(data) %>%
+  addTiles() %>%
+  setView(lat = 36, lng = -6, zoom = 5) %>%
+  addProviderTiles(providers$CartoDB.PositronNoLabels, group = "Street Map") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  
+  # Puntos PRO
+  addCircleMarkers(
+    data = filter(data, version == "PRO"),
+    lng = ~longitude,
+    lat = ~latitude,
+    label = ~paste("Sampling site:", code, "Type:", type),
+    popup = ~paste(
+      "<strong>Sampling site:</strong>", code, "<br>",
+      "<strong>Type:</strong>", type, "<br>",
+      "<strong>Latitude:</strong>", latitude, "<br>",
+      "<strong>Longitude:</strong>", longitude, "<br>",
+      "<strong>Version:</strong>", version
+    ),
+    radius = 4,
+    color = "#B22222",
+    fillOpacity = 0.6,
+    stroke = FALSE,
+    group = "Ant Hunters PRO"
+  ) %>%
+  
+  # Puntos KIDS
+  addCircleMarkers(
+    data = filter(data, version == "KIDS"),
+    lng = ~longitude,
+    lat = ~latitude,
+    label = ~paste("Sampling site:", code, "Type:", type),
+    popup = ~paste(
+      "<strong>Sampling site:</strong>", code, "<br>",
+      "<strong>Type:</strong>", type, "<br>",
+      "<strong>Latitude:</strong>", latitude, "<br>",
+      "<strong>Longitude:</strong>", longitude, "<br>",
+      "<strong>Version:</strong>", version
+    ),
+    radius = 4,
+    color = "#FFA500",
+    fillOpacity = 0.7,
+    stroke = FALSE,
+    group = "Ant Hunters KIDS"
+  ) %>%
+  
+  # Añadir leyenda
+  addLegend(
+    position = "bottomright",
+    colors = c("#B22222", NA, "#FFA500"),
+    labels = c("Ant Hunters PRO", " ", "Ant Hunters KIDS"),
+    title = "",
+    opacity = 1
+  ) %>%
+  
+  # Control de capas base y de los grupos de puntos
+  addLayersControl(
+    baseGroups = c("Street Map", "Satellite"),
+    overlayGroups = c("Ant Hunters PRO", "Ant Hunters KIDS"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+# Mostrar el mapa
+map
+
+
+```
