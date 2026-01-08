@@ -1,1 +1,1 @@
-Sitemap: https://anthunters.github.io/sitemap.xml
+Sitemap: /it/sitemap.xml

@@ -1,0 +1,18 @@
+---
+title: "Gema Trigos-Peral"
+subtitle: "Colaboradora"
+sortby: "4"
+image: gema.jpg
+# started: "date"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: envelope
+      text: email
+      href: "mailto:getriral@gmail.com"
+---
+
+::: {#person-profile}
+:::
